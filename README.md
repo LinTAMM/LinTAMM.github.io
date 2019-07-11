@@ -1,0 +1,2 @@
+# LinTAMM.github.io
+hugoBlog
